@@ -11,15 +11,3 @@ To use this notebook:
 1. Ensure you have Python installed along with PyTorch and OpenCV.
 2. Clone this repository and navigate to the directory.
 3. Run the Jupyter notebook to see the feature extraction process in action.
-
-## Requirements
-- Python 3.x
-- PyTorch
-- OpenCV
-- Jupyter
-
-## Contributions
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
